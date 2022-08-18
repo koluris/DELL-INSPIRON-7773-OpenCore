@@ -78,7 +78,7 @@
 			<key>ResetHwSig</key>
 			<false/>
 			<key>ResetLogoStatus</key>
-			<false/>
+			<true/>
 			<key>SyncTableIds</key>
 			<false/>
 		</dict>
@@ -153,7 +153,9 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x02,0x0)</key>
 			<dict>
- 				<key>device-id</key>
+				<key>AAPL,ig-platform-id</key>
+				<data>AADAhw==</data>
+				<key>device-id</key>
 				<data>FlkAAA==</data>
 			</dict>
 		</dict>
@@ -547,7 +549,7 @@
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmCfgLock</key>
 			<true/>
 			<key>AppleXcpmExtraMsrs</key>
