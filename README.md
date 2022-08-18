@@ -8,20 +8,18 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 16
 
 * Processor: Core i7-8550U 1.8GHz (Turbo Boost up to 4.0GHz)
 * Graphics: Intel UHD620 (Up to 2GB of shared mem) / 1080p 24bit
-* RAM: 16GB DDR3 2400MHz
-* Hard Disk: SATA 512GB SSD
+* RAM: 16GB DDR4 2400MHz
+* Hard Disk: PCI NVMe 512GB SSD
 * Wifi & Bluetooth: Intel Dual Band Wireless-AC 3165
 
 ### What is near 100% completed
 
 * UHD620 2GB / Metal / DRM works on Chrome
+* Touchscreen with Gestures
 * ALC295 Speakers / Headphones / Mic
 * AC 3165 Wifi / Bluetooth / AirDrop / Location Services
 * Trackpad with Gestures support
-* Proper mapping of USB 3.0/3.1/C ports
-* RTL8111 Ethernet
-* Internal HD Webcam
-* SD Card reader
+* USB Ports USB2/3/C
 * Batt. indicator
 * Balanced CPU PM Profile
 * Sleep
