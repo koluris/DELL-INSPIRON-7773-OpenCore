@@ -1,0 +1,1 @@
+# DELL-INSPIRON-7773-OpenCore
