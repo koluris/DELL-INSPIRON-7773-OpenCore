@@ -6,7 +6,7 @@ DefinitionBlock ("", "SSDT", 2, "INSP77", "_PNLF", 0x00000000)
     {
         Name (_HID, EisaId ("APP0002"))
         Name (_CID, "backlight")
-        Name (_UID, Zero)
+        Name (_UID, 0x10)
         Name (_STA, 0x0B)
     }
 }

@@ -23,10 +23,10 @@ DefinitionBlock ("", "SSDT", 2, "INSP77", "_GPRW", 0x00000000)
                     Zero
                 })
             }
-
+            
             Break
         }
-
+        
         Return (XPRW (Arg0, Arg1))
     }
 }
