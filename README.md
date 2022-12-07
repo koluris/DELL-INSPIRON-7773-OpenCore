@@ -1,5 +1,5 @@
 # DELL-INSPIRON-7773-OpenCore
-Successful attempt to install macOS on a 17" Dell laptop
+Successful attempt to install macOS Ventura on a 17" Dell laptop
 
 ### Overall
 So far the build is awesome, it's stable and robust, cold boot time to Mac in 16 seconds!
