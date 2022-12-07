@@ -16,7 +16,8 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 16
 
 * UHD620 2GB / Metal / DRM works on Chrome
 * Touchscreen with Gestures
-* ALC295 Speakers / Headphones / Mic
+* USB-C DP to 4K Monitor/TV
+* ALC225 Speakers / Headphones / Mic
 * AC 3165 Wifi / Bluetooth / AirDrop / Location Services
 * Trackpad with Gestures support
 * USB Ports USB2/3/C
