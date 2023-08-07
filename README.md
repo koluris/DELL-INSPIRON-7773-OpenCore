@@ -1,4 +1,4 @@
-# DELL-INSPIRON-7773-OpenCore
+# DELL-INSPIRON-7773-OpenCore (<a href="https://naden.co">https://naden.co</a>)
 Successful attempt to install macOS Ventura on a 17" Dell laptop
 
 ### Overall
